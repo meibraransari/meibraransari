@@ -26,29 +26,53 @@
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 Currently Working With The Below DevOps & IT Tools:
 📌 AWS Certified Solutions Architect – Associate(Certified ✔), 
+
 ✔ Cloud - Azure & Google.
+
 ✔ Orchestration - Swarm & Kubernetes.
+
 ✔ Containerization - Docker.
+
 ✔ Infrastructure as code tools - Vagrant
+
 ✔ CICD - Jenkins, Gitlab CI.
+
 ✔ OS - Windows(Expert), Linux(Expert)
+
 ✔ Automation & Scripting Language- Bash, Batch, Python & YAML.
+
 ✔ Virtualization - Vmware - Vcenter ESXi, Workstation, Proxmox, XenServer, Virtualbox, Hyper-V.
+
 ✔ Web Services - Nginx, Apache, IIS, XAMPP & Wamp.
+
 ✔ Message queue - RabbitMQ
+
 ✔ Database - MSSQL, MySQL, MariaDB, Postgres & MongoDB.
+
 ✔ Version Control - Git, Github, Gitlab, BitBucket and SVN.
+
 ✔ Proxy - IIS proxy, HAProxy, Nginx Proxy, Apache Proxy and Squid Proxy.
+
 ✔ Project Management - OpenProject & QuickScrum
+
 ✔ Firewall & UTM - Dell Sonicwall, Mikrotik, Unifi & All Home Routers.
+
 ✔ Code Quality Tools - SonarQube.
+
 ✔ Monitoring - Grafana (Prometheus+Loki) Zabbix, Datadog, New Relic, ELK Stack, Uptime Kuma, PRTG, Monit & Supervisor.
+
 ✔ Integration - LDAP, SMTP, IMAP and third-party applications.
+
 ✔ Migration - Mail, Gitlab, CRM, Website and Database.
+
 ✔ FTP Servers - Serv-U MFT, Cerberus, FileZilla, IIS FTP, VSFTPD and Proftpd.
+
 ✔ Backup - Shell Script, Batch Script & many tools like: Iperius, Full backup, Incremental backup, Differential backup & Mirror backup.
+
 ✔ Vulnerability Scan & Patch Management - Ivanti EPM, ZAP Proxy, Metasploit, Wireshark & Nmap.
+
 ✔ Active Directory - Basic
+
 ✔ Documentation/Wiki - WikiJS
 
 ---
