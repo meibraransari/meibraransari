@@ -9,7 +9,9 @@
 ## Ivanti products:
 
 📌 Ivanti Unified Endpoint Management. (Certified ✔)
+
 📌 Ivanti Automation. (Certified ✔)
+
 ✔ Ivanti Data Center Discovery.
 
 ✔ Ivanti Identity Director.
