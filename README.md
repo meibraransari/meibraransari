@@ -4,27 +4,44 @@
 >
 > My journey into the world of computing began as a System Administrator, Now I am working as a DevOps engineer working with below tools.
 
-| Tools | Description |
-|--------------|-------------|
-|✅Proxmox | Proxmox Virtual Environment is a hyper-converged infrastructure open-source software. It is a hosted hypervisor that can run operating systems including Linux and Windows on x64 hardware.|
-|✅Linux OS | Ubuntu, CentOS, Debian, Alpine |
-|✅Database Host | Database(MySQL, Postgres, MongoDB) hosted for some personal tasks and testing purposes |
-|✅Kubernetes|Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. Originally designed by Google, the project is now maintained by the Cloud Native Computing Foundation. |
-|✅TrueNAS|TrueNAS is the branding for a range of free and open-source network-attached storage operating systems produced by iXsystems, and based on FreeBSD and Linux, using the OpenZFS file system.|
-|✅Rancher|Rancher, the open-source multi-cluster orchestration platform, lets operations teams deploy, manage and secure enterprise Kubernetes. |
-|✅Jenkins|Jenkins is an open-source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery.|
-|✅Portainer|Portainer is your container management software to deploy, troubleshoot, and secure applications across cloud, data center, and Industrial IoT use cases.|
-|✅Uptime Kuma|Uptime Kuma. Uptime Kuma is an easy-to-use self-hosted monitoring tool. |
-|✅Nginx proxy manager|We are using it to access our microservices|
-|✅Pihole|Pi-hole is a Linux network-level advertisement and Internet tracker blocking application that acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.|
-|✅Excalidraw|Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them|
-|✅Emby|Emby is a media server designed to organize, play, and stream audio and video to a variety of devices.|
-|✅MINIO SERVER|MinIO® is an object storage server, compatible with Amazon S3 cloud storage service, mainly used for storing unstructured data (such as photos, videos, log files, etc.).|
-|✅What's-up docker (WUD)|Gets you notified when new versions of your Docker containers are available and lets you react the way you want.|
-|✅Nextcloud|Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionality similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice.|
-|✅HAProxy|HAProxy is a free and open-source software that provides a high availability load balancer and reverse proxy for TCP and HTTP-based applications that spreads requests across multiple servers.|
-|✅Netdata|Netdata is a distributed real-time, health monitoring platform for systems, hardware, containers & applications, collecting metrics.|
+## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
+## Ivanti products:
+📌 Ivanti Unified Endpoint Management. (Certified ✔)
+📌 Ivanti Automation. (Certified ✔)
+✔ Ivanti Data Center Discovery.
+✔ Ivanti Identity Director.
+✔ Ivanti Service Manager.
+✔ Ivanti Asset Manager.
+✔ Ivanti Xtraction.
+
+## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+Currently Working With The Below DevOps & IT Tools:
+📌 AWS Certified Solutions Architect – Associate(Certified ✔), 
+✔ Cloud - Azure & Google.
+✔ Orchestration - Swarm & Kubernetes.
+✔ Containerization - Docker.
+✔ Infrastructure as code tools - Vagrant
+✔ CICD - Jenkins, Gitlab CI.
+✔ OS - Windows(Expert), Linux(Expert)
+✔ Automation & Scripting Language- Bash, Batch, Python & YAML.
+✔ Virtualization - Vmware - Vcenter ESXi, Workstation, Proxmox, XenServer, Virtualbox, Hyper-V.
+✔ Web Services - Nginx, Apache, IIS, XAMPP & Wamp.
+✔ Message queue - RabbitMQ
+✔ Database - MSSQL, MySQL, MariaDB, Postgres & MongoDB.
+✔ Version Control - Git, Github, Gitlab, BitBucket and SVN.
+✔ Proxy - IIS proxy, HAProxy, Nginx Proxy, Apache Proxy and Squid Proxy.
+✔ Project Management - OpenProject & QuickScrum
+✔ Firewall & UTM - Dell Sonicwall, Mikrotik, Unifi & All Home Routers.
+✔ Code Quality Tools - SonarQube.
+✔ Monitoring - Grafana (Prometheus+Loki) Zabbix, Datadog, New Relic, ELK Stack, Uptime Kuma, PRTG, Monit & Supervisor.
+✔ Integration - LDAP, SMTP, IMAP and third-party applications.
+✔ Migration - Mail, Gitlab, CRM, Website and Database.
+✔ FTP Servers - Serv-U MFT, Cerberus, FileZilla, IIS FTP, VSFTPD and Proftpd.
+✔ Backup - Shell Script, Batch Script & many tools like: Iperius, Full backup, Incremental backup, Differential backup & Mirror backup.
+✔ Vulnerability Scan & Patch Management - Ivanti EPM, ZAP Proxy, Metasploit, Wireshark & Nmap.
+✔ Active Directory - Basic
+✔ Documentation/Wiki - WikiJS
 
 ---
 
