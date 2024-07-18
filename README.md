@@ -25,6 +25,7 @@
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 Currently Working With The Below DevOps & IT Tools:
+
 📌 AWS Certified Solutions Architect – Associate(Certified ✔), 
 
 ✔ Cloud - Azure & Google.
