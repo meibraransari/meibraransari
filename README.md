@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 >
-> My journey into the world of computing began as a System Administrator, Now I am working as a DevOps engineer working with below tools.
+> My journey into the world of computing began as a System Administrator, Now I am working as a DevOps engineer.
 
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
