@@ -1,7 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="https://linktr.ee/ibraransari" target="_blank">Ibrar Ansari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 > [!IMPORTANT]
-> Hey, I'm Ibrar Ansari!
 >
 > My journey into the world of computing began as a System Administrator, Now I am working as DevOps engeener. 
 
