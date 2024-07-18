@@ -7,13 +7,21 @@
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
 ## Ivanti products:
+
 📌 Ivanti Unified Endpoint Management. (Certified ✔)
+
 📌 Ivanti Automation. (Certified ✔)
+
 ✔ Ivanti Data Center Discovery.
+
 ✔ Ivanti Identity Director.
+
 ✔ Ivanti Service Manager.
+
 ✔ Ivanti Asset Manager.
+
 ✔ Ivanti Xtraction.
+
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 Currently Working With The Below DevOps & IT Tools:
