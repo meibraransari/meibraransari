@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:40:25+05:30
-Updated: 2024-07-27T14:46:57+05:30
+Updated: 2024-07-27T14:48:38+05:30
 ---
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
@@ -31,27 +31,17 @@ Updated: 2024-07-27T14:46:57+05:30
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 Currently Working With The Below DevOps & IT Tools:
-
+```markdown
 📌 AWS Certified Solutions Architect – Associate(Certified ✔), 
-
 ✔ Cloud - Azure & Google.
-
 ✔ Orchestration - Swarm & Kubernetes.
-
 ✔ Containerization - Docker.
-
 ✔ Infrastructure as code tools - Vagrant
-
 ✔ CICD - Jenkins, Gitlab CI.
-
 ✔ OS - Windows(Expert), Linux(Expert)
-
 ✔ Automation & Scripting Language- Bash, Batch, Python & YAML.
-
 ✔ Virtualization - Vmware - Vcenter ESXi, Workstation, Proxmox, XenServer, Virtualbox, Hyper-V.
-
 ✔ Web Services - Nginx, Apache, IIS, XAMPP & Wamp.
-
 ✔ Message queue - RabbitMQ
 
 ✔ Database - MSSQL, MySQL, MariaDB, Postgres & MongoDB.
@@ -81,7 +71,7 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Active Directory - Basic
 
 ✔ Documentation/Wiki - WikiJS
-
+```
 
 ### 💼 Connect with me 👇👇 😊
 
