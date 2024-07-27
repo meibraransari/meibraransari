@@ -1,3 +1,7 @@
+---
+Created: 2024-07-27T14:40:25+05:30
+Updated: 2024-07-27T14:40:59+05:30
+---
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
 ### <samp>&gt; Hi there, I'm <a href="https://linktr.ee/ibraransari" target="_blank">Ibrar Ansari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
@@ -9,20 +13,13 @@
 
 
 ## Ivanti products:
-
-📌 Ivanti Unified Endpoint Management. (Certified ✔)
-
-📌 Ivanti Automation. (Certified ✔)
-
-✔ Ivanti Data Center Discovery.
-
-✔ Ivanti Identity Director.
-
-✔ Ivanti Service Manager.
-
-✔ Ivanti Asset Manager.
-
-✔ Ivanti Xtraction.
+- 📌 Ivanti Unified Endpoint Management. (Certified ✔)
+- 📌 Ivanti Automation. (Certified ✔)
+- ✔ Ivanti Data Center Discovery.
+- ✔ Ivanti Identity Director.
+- ✔ Ivanti Service Manager.
+- ✔ Ivanti Asset Manager.
+- ✔ Ivanti Xtraction.
 
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
