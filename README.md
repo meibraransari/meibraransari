@@ -12,7 +12,7 @@ Maintainer: Ibrar Ansari
 > My journey into the world of computing began as a System Administrator, Now I am working as a DevOps engineer.
 
 ## My Certifications 🏆
-- [AWS Certified Solutions Architect](https://www.credly.com/badges/e2ab0aeb-c6cc-482f-90fd-729dc80b6016/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e2ab0aeb-c6cc-482f-90fd-729dc80b6016/public_url)
 - [AWS Educate Getting Started with Compute](https://www.credly.com/badges/95280134-fbc6-4ce6-aecd-17ba6f30f5cc/public_url)
 - [AWS Educate Getting Started with Networking](https://www.credly.com/badges/7168fa43-ed79-4b56-8286-e5e0a068fda3/public_url)
 - [AWS Educate Getting Started with Storage](https://www.credly.com/badges/19cc6a16-6bde-43e4-aa4e-6ddbc00e24c3/public_url)
