@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:40:25+05:30
-Updated: 2024-07-27T14:48:38+05:30
+Updated: 2024-07-27T14:49:52+05:30
 ---
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
@@ -20,14 +20,15 @@ Updated: 2024-07-27T14:48:38+05:30
 - [Certified Administrator for Ivanti Automation](https://ti-user-certificates.s3.amazonaws.com/e546d2da-8954-4b2d-adbe-0138517b4dba/eb21c202-c671-47b4-9a5e-c84d7f5d2182-ibrar-ansari-f9cea79c-a30f-4fe9-8bec-3490be024013-certificate.pdf)
 
 ## Ivanti Products:
-- 📌 Ivanti Unified Endpoint Management. (Certified ✔)
-- 📌 Ivanti Automation. (Certified ✔)
-- ✔ Ivanti Data Center Discovery.
-- ✔ Ivanti Identity Director.
-- ✔ Ivanti Service Manager.
-- ✔ Ivanti Asset Manager.
-- ✔ Ivanti Xtraction.
-
+```markdown
+📌 Ivanti Unified Endpoint Management. (Certified ✔)
+📌 Ivanti Automation. (Certified ✔)
+✔ Ivanti Data Center Discovery.
+✔ Ivanti Identity Director.
+✔ Ivanti Service Manager.
+✔ Ivanti Asset Manager.
+✔ Ivanti Xtraction.
+```
 
 ## 📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 Currently Working With The Below DevOps & IT Tools:
@@ -43,33 +44,19 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Virtualization - Vmware - Vcenter ESXi, Workstation, Proxmox, XenServer, Virtualbox, Hyper-V.
 ✔ Web Services - Nginx, Apache, IIS, XAMPP & Wamp.
 ✔ Message queue - RabbitMQ
-
 ✔ Database - MSSQL, MySQL, MariaDB, Postgres & MongoDB.
-
 ✔ Version Control - Git, Github, Gitlab, BitBucket and SVN.
-
 ✔ Proxy - IIS proxy, HAProxy, Nginx Proxy, Apache Proxy and Squid Proxy.
-
 ✔ Project Management - OpenProject & QuickScrum
-
 ✔ Firewall & UTM - Dell Sonicwall, Mikrotik, Unifi & All Home Routers.
-
 ✔ Code Quality Tools - SonarQube.
-
 ✔ Monitoring - Grafana (Prometheus+Loki) Zabbix, Datadog, New Relic, ELK Stack, Uptime Kuma, PRTG, Monit & Supervisor.
-
 ✔ Integration - LDAP, SMTP, IMAP and third-party applications.
-
 ✔ Migration - Mail, Gitlab, CRM, Website and Database.
-
 ✔ FTP Servers - Serv-U MFT, Cerberus, FileZilla, IIS FTP, VSFTPD and Proftpd.
-
 ✔ Backup - Shell Script, Batch Script & many tools like: Iperius, Full backup, Incremental backup, Differential backup & Mirror backup.
-
 ✔ Vulnerability Scan & Patch Management - Ivanti EPM, ZAP Proxy, Metasploit, Wireshark & Nmap.
-
 ✔ Active Directory - Basic
-
 ✔ Documentation/Wiki - WikiJS
 ```
 
