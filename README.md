@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-07-29T22:06:25+05:30
+Updated: 2024-07-29T22:13:36+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -39,6 +39,34 @@ Updated: 2024-07-29T22:06:25+05:30
 - [AWS Knowledge: Architecting](https://www.credly.com/badges/6ea8d09d-8824-4286-8b54-5f37bbe9e581/linked_in_profile)
 - [Certified Administrator for Endpoint Manager Administrator](https://ti-user-certificates.s3.amazonaws.com/e546d2da-8954-4b2d-adbe-0138517b4dba/eb21c202-c671-47b4-9a5e-c84d7f5d2182-ibrar-ansari-f662f457-79a0-415e-bce8-65a14d7fcd2b-certificate.pdf)
 - [Certified Administrator for Ivanti Automation](https://ti-user-certificates.s3.amazonaws.com/e546d2da-8954-4b2d-adbe-0138517b4dba/eb21c202-c671-47b4-9a5e-c84d7f5d2182-ibrar-ansari-f9cea79c-a30f-4fe9-8bec-3490be024013-certificate.pdf)
+
+## 💻Customized App
+<!-- App:Start -->
+- [🔥Dotfiles💪🏽 power of automation](https://github.com/meibraransari/dotfiles)
+- [Ubuntu Docker Image for Ansible playground: Run many containers to play with Ansible](https://github.com/meibraransari/ubuntu-ssh-enabled)
+- [Turn FTP/SFTP server within minutes without installation & configuration](https://github.com/meibraransari/ftp-server)  
+<!-- App:End -->
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [DevOps Home LAB 💻 with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
+- [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
+- [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)  
+<!-- BLOG-POST-LIST:END -->
+
+## 📚 Language and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
 ## Ivanti Products:
 ```markdown
@@ -80,27 +108,6 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Active Directory - Basic
 ✔ Documentation/Wiki - WikiJS
 ```
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [DevOps Home LAB 💻 with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
-- [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
-- [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)  
-<!-- BLOG-POST-LIST:END -->
-
-## 📚 Language and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
 
 ---
 
