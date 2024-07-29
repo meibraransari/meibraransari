@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:40:25+05:30
-Updated: 2024-07-29T21:54:46+05:30
+Updated: 2024-07-29T22:00:32+05:30
 Maintainer: Ibrar Ansari
 ---
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
@@ -77,6 +77,19 @@ Currently Working With The Below DevOps & IT Tools:
 - [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
 - [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)  
 <!-- BLOG-POST-LIST:END -->
+
+## 📚 Language and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
 ---
 
