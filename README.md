@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:40:25+05:30
-Updated: 2024-07-27T14:49:52+05:30
+Updated: 2024-07-29T10:56:40+05:30
 Maintainer: Ibrar Ansari
 ---
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
@@ -10,6 +10,15 @@ Maintainer: Ibrar Ansari
 > [!IMPORTANT]
 >
 > My journey into the world of computing began as a System Administrator, Now I am working as a DevOps engineer.
+
+### 💼 Connect with me 👇👇 😊
+
+- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+- ✍ [**Blog**](https://ibraransari.blogspot.com/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
+- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
+- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
+- 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
 
 ## My Certifications 🏆
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e2ab0aeb-c6cc-482f-90fd-729dc80b6016/public_url)
@@ -60,15 +69,6 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Active Directory - Basic
 ✔ Documentation/Wiki - WikiJS
 ```
-
-### 💼 Connect with me 👇👇 😊
-
-- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
-- ✍ [**Blog**](https://ibraransari.blogspot.com/)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
-- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
-- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
-- 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
 
 
 ---
