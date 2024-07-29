@@ -1,8 +1,18 @@
 ---
-Created: 2024-07-27T14:40:25+05:30
-Updated: 2024-07-29T22:00:32+05:30
-Maintainer: Ibrar Ansari
+Created: 2024-07-27T21:23:36+05:30
+Updated: 2024-07-29T22:04:52+05:30
 ---
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
+    <img src="https://img.shields.io/github/followers/meibraransari?style=social" />
+    <img src="https://img.shields.io/github/stars/meibraransari/meibraransari?style=social" />
+    <img src="https://img.shields.io/github/watchers/meibraransari/meibraransari?style=social" />
+    <img src="https://img.shields.io/github/size/meibraransari/meibraransari/README.md" />
+    <img src="https://img.shields.io/github/last-commit/meibraransari/meibraransari" />
+    <img src="https://img.shields.io/github/contributors/meibraransari/meibraransari" />   
+    <img src="https://badge.fury.io/gh/meibraransari%2Fmeibraransari.svg" />  
+    
+</p>
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
 ### <samp>&gt; Hi there, I'm <a href="https://linktr.ee/ibraransari" target="_blank">Ibrar Ansari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
