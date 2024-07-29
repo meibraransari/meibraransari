@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:40:25+05:30
-Updated: 2024-07-29T10:56:40+05:30
+Updated: 2024-07-29T21:54:46+05:30
 Maintainer: Ibrar Ansari
 ---
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
@@ -70,6 +70,13 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Documentation/Wiki - WikiJS
 ```
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [DevOps Home LAB 💻 with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
+- [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
+- [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)  
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
