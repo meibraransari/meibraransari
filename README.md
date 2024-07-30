@@ -57,27 +57,25 @@ Updated: 2024-07-30T07:31:21+05:30
 
 ## 📚 Language and Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img align="left" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />
-<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
-<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-<img align="left" alt="gitlab" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img align="left" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img align="left" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />
+    <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
+    <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+    <img align="left" alt="gitlab" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
+    <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+    <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+    <img align="left" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />
+    <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+    <img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" />
+    <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 </p> 
-
 
 ---
 ## Ivanti Products:
