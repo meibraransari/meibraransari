@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-07-30T07:31:21+05:30
+Updated: 2024-07-30T07:51:47+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -18,9 +18,10 @@ Updated: 2024-07-30T07:31:21+05:30
 
 ### <samp>&gt; Hi there, I'm <a href="https://linktr.ee/ibraransari" target="_blank">Ibrar Ansari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-> [!IMPORTANT]
->
-> My journey into the world of computing began as a System Administrator, Now I am working as a DevOps engineer.
+<h5 align="left">A passionate Cloud & DevOps Engineer</h3>
+- 🌱 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**
+
+- 💬 Ask me about **Cloud DevOps , Infrastructure design and implementation** **Jenkins, GitLab, Ansible Automation, AWS Cloud Operations, AWS Architecture.**
 
 ### 💼 Connect with me 👇👇 😊
 
