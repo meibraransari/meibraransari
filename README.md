@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-07-31T21:19:18+05:30
+Updated: 2024-07-31T21:32:20+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -57,6 +57,13 @@ Updated: 2024-07-31T21:19:18+05:30
 - [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
 - [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)  
 <!-- BLOG-POST-LIST:END -->
+
+## ▶️Latest Video
+
+<!-- Video:START -->
+- [DevOps Home LAB 💻 with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
+<!-- Video:END -->
+
 
 ## 📚 Language and Tools
 <p align="left">
