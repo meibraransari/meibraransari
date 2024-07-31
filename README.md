@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-07-31T21:34:10+05:30
+Updated: 2024-07-31T21:42:30+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -20,7 +20,7 @@ Updated: 2024-07-31T21:34:10+05:30
 
 <h4 align="left">A passionate Cloud & DevOps Engineer</h3>
 
-- 🌱 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**
+- 🎯 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**
 
 - 💬 Ask me about **Cloud DevOps , Infrastructure design and implementation** **Jenkins, GitLab, Ansible Automation, AWS Cloud Operations, AWS Architecture.**
 
