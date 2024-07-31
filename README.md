@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-07-30T11:08:54+05:30
+Updated: 2024-07-31T09:44:55+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -44,8 +44,8 @@ Updated: 2024-07-30T11:08:54+05:30
 
 ## 💻My Customized App
 <!-- App:Start -->
-- [🔥Dotfiles💪🏽 The power of automation.](https://github.com/meibraransari/dotfiles)
-- [🐧Ubuntu Docker Image for Ansible playground🧪: Run many containers to play with Ansible(Support: SSH/SFTP).](https://github.com/meibraransari/ubuntu-ssh-enabled)
+- [🔥Dotfiles 💪🏽 The power of DevOps Automation Tools.](https://github.com/meibraransari/dotfiles)
+- [🐧Ubuntu Docker Image for Playground🧪: Run many containers to play with Ansible(Support: SSH/SFTP).](https://github.com/meibraransari/ubuntu-ssh-enabled)
 - [🔒Turn FTP server within minutes without installation & configuration.](https://github.com/meibraransari/ftp-server)  
 - [🔐SFTP server with key and Password based within seconds..](https://github.com/meibraransari/sftp-server-docker)  
 <!-- App:End -->
