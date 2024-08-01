@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-01T06:51:59+05:30
+Updated: 2024-08-01T06:52:37+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -29,10 +29,9 @@ Updated: 2024-08-01T06:51:59+05:30
 - 🌱 I’m currently learning (AWS-SAP-C02).
 - 👯 I’m looking to collaborate on my GitHub project.
 - 💬 Ask me about **Cloud DevOps , Infrastructure design and implementation** **Jenkins, GitLab, Ansible Automation, AWS Cloud Operations, AWS Architecture.**
-### 💼 Connect with me 👇👇 😊
-
 <img align="right" alt="GIF" src="https://github.com/meibraransari/meibraransari/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
+### 💼 Connect with me 👇👇 😊
 - 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
 - ✍ [**Blog**](https://ibraransari.blogspot.com/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
