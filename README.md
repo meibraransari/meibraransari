@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-01T06:54:45+05:30
+Updated: 2024-08-01T07:00:16+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -10,8 +10,7 @@ Updated: 2024-08-01T06:54:45+05:30
     <img src="https://img.shields.io/github/size/meibraransari/meibraransari/README.md" />
     <img src="https://img.shields.io/github/last-commit/meibraransari/meibraransari" />
     <img src="https://img.shields.io/github/contributors/meibraransari/meibraransari" />   
-    <img src="https://badge.fury.io/gh/meibraransari%2Fmeibraransari.svg" />  
-    
+     <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </p>
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
