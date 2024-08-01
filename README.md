@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-07-31T22:03:00+05:30
+Updated: 2024-08-01T06:10:49+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -13,6 +13,9 @@ Updated: 2024-07-31T22:03:00+05:30
     <img src="https://badge.fury.io/gh/meibraransari%2Fmeibraransari.svg" />  
     
 </p>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
@@ -23,7 +26,7 @@ Updated: 2024-07-31T22:03:00+05:30
 - 🎯 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**
 - 👀 I’m interested to learn new DevOps & Automation Tools.
 - 🌱 I’m currently learning (AWS-SAP-C02).
-- 💞️ I’m looking to collaborate on my GitHub project.
+- 👯 I’m looking to collaborate on my GitHub project.
 - 💬 Ask me about **Cloud DevOps , Infrastructure design and implementation** **Jenkins, GitLab, Ansible Automation, AWS Cloud Operations, AWS Architecture.**
 ### 💼 Connect with me 👇👇 😊
 
@@ -46,7 +49,7 @@ Updated: 2024-07-31T22:03:00+05:30
 ## 🚀My Customized App
 <!-- App:Start -->
 - [🔥Dotfiles 💪🏽 The power of DevOps Automation Tools.](https://github.com/meibraransari/dotfiles)
-- [🐧Ubuntu Docker Image for Playground🧪: Run many containers to play with Ansible(Support: SSH/SFTP).](https://github.com/meibraransari/ubuntu-ssh-enabled)
+- [🐧Ubuntu SSH Enabled: Best for playground🧪](https://github.com/meibraransari/ubuntu-ssh-enabled)
 - [🔒Turn FTP server within minutes without installation & configuration.](https://github.com/meibraransari/ftp-server)  
 - [🔐SFTP server with key and Password based within seconds..](https://github.com/meibraransari/sftp-server-docker)  
 <!-- App:End -->
@@ -135,16 +138,29 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Documentation/Wiki - WikiJS
 ```
 
+
 ---
 
-<img alt="sinawic" src="https://github-readme-stats.vercel.app/api/top-langs?username=meibraransari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=meibraransari&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+---
 
-<img alt="sinawic" src="https://github-readme-stats.vercel.app/api?username=meibraransari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=meibraransari&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meibraransari&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+---
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=meibraransari&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 
 ---
 <!--
+
+<img alt="sinawic" src="https://github-readme-stats.vercel.app/api/top-langs?username=meibraransari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
+
+<img alt="sinawic" src="https://github-readme-stats.vercel.app/api?username=meibraransari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+
 <h2> GitHub Contribution Graph</h2>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
