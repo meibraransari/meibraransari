@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-01T06:10:49+05:30
+Updated: 2024-08-01T06:12:37+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -138,6 +138,10 @@ Currently Working With The Below DevOps & IT Tools:
 ✔ Documentation/Wiki - WikiJS
 ```
 
+---
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=meibraransari&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+
 
 ---
 
@@ -152,9 +156,7 @@ Currently Working With The Below DevOps & IT Tools:
 </p>
 ---
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=meibraransari&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 
----
 <!--
 
 <img alt="sinawic" src="https://github-readme-stats.vercel.app/api/top-langs?username=meibraransari&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
