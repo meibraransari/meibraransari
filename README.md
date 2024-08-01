@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-01T06:24:16+05:30
+Updated: 2024-08-01T06:25:18+05:30
 ---
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
@@ -23,7 +23,7 @@ Updated: 2024-08-01T06:24:16+05:30
 
 <h4 align="left">A passionate Cloud & DevOps Engineer</h3>
 
-- - 🔭 I’m currently working on **IConflux Technologies Pvt Ltd** as *Lead System Administrator (DevOps)*.
+- 🔭 I’m currently working on **IConflux Technologies Pvt Ltd** as *Lead System Administrator (DevOps)*.
 - 🎯 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**.
 - 👀 I’m interested to learn new DevOps & Automation Tools.
 - 🌱 I’m currently learning (AWS-SAP-C02).
