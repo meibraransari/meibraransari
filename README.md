@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T16:52:15+05:30
+Updated: 2024-08-06T16:53:40+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -63,7 +63,7 @@ Maintainer: Ibrar Ansari
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [💻DevOps Home LAB with Proxmox and many more..](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
+- [🎪DevOps Home LAB with Proxmox 💻 and many more..](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
 - <a href="https://iconflux.com/blog/exploring-novu-notification-power">
   <img src="https://novu.co/favicon-32x32.png" width="16" height="16" alt="AWS Icon" />
   Exploring the Power of Open-Source Notification Infrastructure Novu.
