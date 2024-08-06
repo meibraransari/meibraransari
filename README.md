@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T16:43:07+05:30
+Updated: 2024-08-06T16:44:43+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -74,6 +74,8 @@ Maintainer: Ibrar Ansari
 - <a href="https://iconflux.com/blog/best-practices-for-aws-cost-optimization">
     <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="Novu Favicon" />
   </a> AWS - Cost Optimization Best Practices Guide.
+- <a href="https://iconflux.com/blog/best-practices-for-aws-cost-optimization"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="AWS Icon" /> AWS - Cost Optimization Best Practices Guide </a>
+
 <!-- BLOG-POST-LIST:END -->
 
 ## ▶️Latest Video
