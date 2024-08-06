@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T17:10:23+05:30
+Updated: 2024-08-06T17:13:56+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -110,8 +110,7 @@ Maintainer: Ibrar Ansari
 </p> 
 
 ---
-## <a href="https://www.youtube.com"> <img src="https://cdn.cookielaw.org/logos/5fecd171-297d-4388-9f38-3a4fa08ab47b/0ea96ee0-69c5-405c-ae6e-c1a22657fdb4/15ed9668-1f74-4676-9b74-b2d78c6c0280/ivanti-logo-scarlet.png" width="40" height="28" alt="YouTube Icon" /> Worked with Ivanti </a>
-
+## <a> <img src="https://cdn.cookielaw.org/logos/5fecd171-297d-4388-9f38-3a4fa08ab47b/0ea96ee0-69c5-405c-ae6e-c1a22657fdb4/15ed9668-1f74-4676-9b74-b2d78c6c0280/ivanti-logo-scarlet.png" width="40" height="28" alt="YouTube Icon" /> Worked with Ivanti </a>
 ```markdown
 📌 Ivanti Unified Endpoint Management. (Certified ✔)
 📌 Ivanti Automation. (Certified ✔)
