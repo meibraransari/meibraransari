@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T16:37:36+05:30
+Updated: 2024-08-06T16:40:01+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -68,6 +68,9 @@ Maintainer: Ibrar Ansari
 - <a href="https://iconflux.com/blog/exploring-novu-notification-power">
     <img src="https://novu.co/favicon-32x32.png" width="16" height="16" alt="Novu Favicon" />
   </a> Exploring the Power of Open-Source Notification Infrastructure Novu
+- <a href="https://iconflux.com/blog/aws-cloud-security">
+    <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png" width="16" height="16" alt="Novu Favicon" />
+  </a> Protecting Your Cloud Infrastructure Using AWS Security Best Practices
 - [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
 - [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)
 <!-- BLOG-POST-LIST:END -->
