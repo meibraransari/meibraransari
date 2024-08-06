@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-01T07:14:37+05:30
+Updated: 2024-08-06T15:45:56+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -64,6 +64,7 @@ Maintainer: Ibrar Ansari
 
 <!-- BLOG-POST-LIST:START -->
 - [💻DevOps Home LAB with Proxmox and many more..](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
+- [Exploring the Power of Open-Source Notification Infrastructure Novu](https://iconflux.com/blog/exploring-novu-notification-power)
 - [Protecting Your Cloud Infrastructure Using AWS Security Best Practices](https://iconflux.com/blog/aws-cloud-security)
 - [AWS - Cost Optimization Best Practices Guide](https://iconflux.com/blog/best-practices-for-aws-cost-optimization)  
 <!-- BLOG-POST-LIST:END -->
