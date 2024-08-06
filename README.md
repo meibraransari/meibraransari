@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T16:53:40+05:30
+Updated: 2024-08-06T16:54:35+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -79,7 +79,7 @@ Maintainer: Ibrar Ansari
 ## ▶️Latest Video
 
 <!-- Video:START -->
-- [DevOps Home LAB 💻 with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
+- [💻DevOps Home LAB with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
 <!-- Video:END -->
 
 
