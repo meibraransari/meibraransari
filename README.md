@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T17:01:10+05:30
+Updated: 2024-08-06T17:05:34+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -76,7 +76,7 @@ Maintainer: Ibrar Ansari
   </a>
 <!-- BLOG-POST-LIST:END -->
 
-## <a href="https://www.youtube.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="35" height="25" alt="YouTube Icon" /> Latest Video </a>
+## <a href="https://www.youtube.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="24" alt="YouTube Icon" /> Latest Video </a>
 
 <!-- Video:START -->
 - [💻DevOps Home LAB with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
