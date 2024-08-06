@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T16:47:49+05:30
+Updated: 2024-08-06T16:49:19+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -65,15 +65,18 @@ Maintainer: Ibrar Ansari
 
 <!-- BLOG-POST-LIST:START -->
 - [💻DevOps Home LAB with Proxmox and many more..](https://ibraransari.blogspot.com/2024/01/devops-home-lab-with-proxmox-kubernetes.html)
+
 - <a href="https://iconflux.com/blog/exploring-novu-notification-power">
   <img src="https://novu.co/favicon-32x32.png" width="16" height="16" alt="AWS Icon" />
   Exploring the Power of Open-Source Notification Infrastructure Novu.
 </a>
+
 - <a href="https://iconflux.com/blog/aws-cloud-security">
   <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="AWS Icon" />
   Protecting Your Cloud Infrastructure Using AWS Security Best Practices.
 </a>
-- <a href="https://iconflux.com/blog/best-practices-for-aws-cost-optimization"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="AWS Icon" /> AWS - Cost Optimization Best Practices Guide </a>
+
+- <a href="https://iconflux.com/blog/best-practices-for-aws-cost-optimization"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="16" height="16" alt="AWS Icon" /> AWS - Cost Optimization Best Practices Guide. </a>
 
 <!-- BLOG-POST-LIST:END -->
 
