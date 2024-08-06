@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-06T17:15:03+05:30
+Updated: 2024-08-06T17:34:35+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -49,8 +49,8 @@ Maintainer: Ibrar Ansari
 - [AWS Educate Getting Started with Networking](https://www.credly.com/badges/7168fa43-ed79-4b56-8286-e5e0a068fda3/public_url)
 - [AWS Educate Getting Started with Storage](https://www.credly.com/badges/19cc6a16-6bde-43e4-aa4e-6ddbc00e24c3/public_url)
 - [AWS Knowledge: Architecting](https://www.credly.com/badges/6ea8d09d-8824-4286-8b54-5f37bbe9e581/linked_in_profile)
-- [Certified Administrator for Endpoint Manager Administrator](https://ti-user-certificates.s3.amazonaws.com/e546d2da-8954-4b2d-adbe-0138517b4dba/eb21c202-c671-47b4-9a5e-c84d7f5d2182-ibrar-ansari-f662f457-79a0-415e-bce8-65a14d7fcd2b-certificate.pdf)
-- [Certified Administrator for Ivanti Automation](https://ti-user-certificates.s3.amazonaws.com/e546d2da-8954-4b2d-adbe-0138517b4dba/eb21c202-c671-47b4-9a5e-c84d7f5d2182-ibrar-ansari-f9cea79c-a30f-4fe9-8bec-3490be024013-certificate.pdf)
+- [Certified Administrator for Endpoint Manager Administrator](https://drive.google.com/file/d/1L0t-09Y8M59N4YeX3nDxQ8CABLsrQh31/view)
+- [Certified Administrator for Ivanti Automation](https://drive.google.com/file/d/1wR7r1rx54_fLRMwjg4DowMCYx1AHA5mY/view)
 
 ## 🚀Customized App for DevOps.
 <!-- App:Start -->
