@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-13T21:27:17+05:30
+Updated: 2024-08-13T21:39:53+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -84,32 +84,7 @@ Maintainer: Ibrar Ansari
 
 
 ## 📚 Language and Tools
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-	<img alt="Vim" width="40px" height="40" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <img align="left" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" />
-    <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
-    <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-    <img align="left" alt="gitlab" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
-    <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
-    <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-    <img align="left" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />
-    <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-    <img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" />
-    <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a>
-    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a>
-</p> 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,jenkins,linux,windows,prometheus,grafana,cloudflare,bash,git,gitlab,github,nginx,rabbitmq,redis,vscode,vim,postman,obsidian,md&perline=10)](#)
 ---
 ## <a> <img src="https://cdn.cookielaw.org/logos/5fecd171-297d-4388-9f38-3a4fa08ab47b/0ea96ee0-69c5-405c-ae6e-c1a22657fdb4/15ed9668-1f74-4676-9b74-b2d78c6c0280/ivanti-logo-scarlet.png" width="40" height="28" alt="YouTube Icon" /> Worked with Ivanti </a>
 ```markdown
