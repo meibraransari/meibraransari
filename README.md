@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-13T22:00:35+05:30
+Updated: 2024-08-13T22:01:38+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -46,7 +46,7 @@ Maintainer: Ibrar Ansari
 - 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
 
 
-## 👨🏻‍🎓 Certifications 
+### 👨🏻‍🎓 Certifications 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e2ab0aeb-c6cc-482f-90fd-729dc80b6016/public_url)
 - [AWS Educate Getting Started with Compute](https://www.credly.com/badges/95280134-fbc6-4ce6-aecd-17ba6f30f5cc/public_url)
 - [AWS Educate Getting Started with Networking](https://www.credly.com/badges/7168fa43-ed79-4b56-8286-e5e0a068fda3/public_url)
