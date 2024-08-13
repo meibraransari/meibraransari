@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-13T21:59:34+05:30
+Updated: 2024-08-13T22:00:35+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -24,14 +24,7 @@ Maintainer: Ibrar Ansari
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
 ### <samp>&gt; Hi there, I'm <a href="https://linktr.ee/ibraransari" target="_blank">Ibrar Ansari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
-<h4 align="left">A passionate Cloud & DevOps Engineer</h3>
-
-<h3 align="center">My interests</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=0C35F7&center=true&vCenter=true&width=435&lines=A+passionate+Cloud+%26+DevOps+Engineer" alt="Typing SVG" /></a>
-
-
-
 
 - 🔭 I’m currently working on [IConflux Technologies Pvt Ltd](https://iconflux.com/) as **Lead System Administrator (DevOps)**.
 - 🎯 I’m skilled in **AWS Cloud, DevOps & Infrastructure Automation**.
