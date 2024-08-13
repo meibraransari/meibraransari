@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-13T22:01:38+05:30
+Updated: 2024-08-13T22:02:34+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -14,12 +14,13 @@ Maintainer: Ibrar Ansari
      <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </p>
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img src="assets/header.png"/>
 </p>
 
 <p align="center">
-  <img src="assets/header.png"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
 
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
