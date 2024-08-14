@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-14T17:39:17+05:30
+Updated: 2024-08-14T17:41:32+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -46,7 +46,7 @@ Maintainer: Ibrar Ansari
 - 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
 - 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
 
-## Support
+### Support
 
 Enjoying the Ibrar's journey? If my tech explorations have brought value to your world, consider supporting me with a virtual coffee. Your contribution fuels my mission to keep navigating the tech universe and sharing insights. Cheers to shared adventures and caffeine! ☕️
 
