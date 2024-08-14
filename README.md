@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-14T17:41:32+05:30
+Updated: 2024-08-14T22:16:20+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -92,7 +92,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 <!-- Video:END -->
 
 
-## 📚 Language and Tools
+## 🛠️ Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,jenkins,linux,ubuntu,windows,prometheus,grafana,cloudflare,bash,git,gitlab,github,nginx,rabbitmq,redis,mysql,powershell,py,vscode,vim,regex,postman,obsidian,md&perline=15)](#)
 ---
 ## <a> <img src="https://cdn.cookielaw.org/logos/5fecd171-297d-4388-9f38-3a4fa08ab47b/0ea96ee0-69c5-405c-ae6e-c1a22657fdb4/15ed9668-1f74-4676-9b74-b2d78c6c0280/ivanti-logo-scarlet.png" width="40" height="28" alt="YouTube Icon" /> Worked with Ivanti </a>
