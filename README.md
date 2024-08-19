@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-08-14T22:16:20+05:30
+Updated: 2024-08-19T13:22:35+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -89,6 +89,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 
 <!-- Video:START -->
 - [💻DevOps Home LAB with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
+- [👨🏿‍💻Linux Help Command | Linux Commands for Cloud and DevOps | Become Linux command line Expert.](https://youtu.be/OfNa7tlRGpo)
 <!-- Video:END -->
 
 
