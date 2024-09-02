@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-09-02T21:12:53+05:30
+Updated: 2024-09-02T21:14:04+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -90,7 +90,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 ## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Latest Video </a>
 
 <!-- Video:START -->
-- [How to Setup an FTP Server within 15 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
+- 🔒[How to Setup an FTP Server within 15 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
 - [💻DevOps Home LAB with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
 - [👨🏿‍💻Linux Help Command | Linux Commands for Cloud and DevOps | Become Linux command line Expert.](https://youtu.be/OfNa7tlRGpo)
 <!-- Video:END -->
