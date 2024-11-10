@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-11-03T12:04:45+05:30
+Updated: 2024-11-10T10:28:41+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -90,6 +90,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 ## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Latest Video </a>
 
 <!-- Video:START -->
+- 🚀[How to Setup Ansible playground within 60 Seconds 😊](https://youtu.be/Z_7Iu-APgrY?si=Xe3e3nuB4YbKkS-a)
 - 🔐[How to Setup SFTP Server within 50 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
 - 🔒[How to Setup an FTP Server within 15 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
 - [💻DevOps Home LAB with Proxmox, Kubernetes, TrueNAS, Docker Swarm, Rancher, Portainer and much more🔥](https://youtu.be/sxfWdb0wwak?si=D49bRKhmJDQ304Ka)
