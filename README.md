@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2024-12-01T09:58:23+05:30
+Updated: 2024-12-01T09:59:29+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -90,7 +90,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 ## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Latest Video </a>
 
 <!-- Video:START -->
-- 🌍[DevOps in Action - How to Setup Pi-hole DNS within 60 seconds | Pi-hole Home Lab DNS Server setup 😊](https://youtu.be/FYuOSGJk7j0)
+- 🌍[How to Setup Pi-hole DNS within 60 seconds | Pi-hole Home Lab DNS Server setup 😊](https://youtu.be/FYuOSGJk7j0)
 - 🚀[How to Setup Ansible playground within 60 Seconds 😊](https://youtu.be/Z_7Iu-APgrY?si=Xe3e3nuB4YbKkS-a)
 - 🔐[How to Setup SFTP Server within 50 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
 - 🔒[How to Setup an FTP Server within 15 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
