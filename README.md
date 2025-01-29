@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T21:23:36+05:30
-Updated: 2025-01-29T09:11:26+05:30
+Updated: 2025-01-29T09:39:32+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="left"> 
@@ -90,7 +90,7 @@ Enjoying the Ibrar's journey? If my tech explorations have brought value to your
 ## <a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25" height="20" alt="YouTube Icon" /> Top Youtube Video </a>
 
 <!-- Video:START -->
-- 🌍[How to Setup Pi-hole DNS within 60 seconds | Pi-hole Home Lab DNS Server setup 😊](https://youtu.be/FYuOSGJk7j0)
+- [<img src="https://pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png" width="15" height="15" alt="Icon" /> How to Setup Pi-hole DNS within 60 seconds | Pi-hole Home Lab DNS Server setup 😊](https://youtu.be/FYuOSGJk7j0)
 - [<img src="https://docs.ansible.com/ansible/latest/_static/images/Ansible-Mark-RGB_Black.png" width="15" height="15" alt="Icon" /> How to Setup Ansible playground within 60 Seconds 😊](https://youtu.be/Z_7Iu-APgrY)
 - [<img src="https://nginxproxymanager.com/icon.png" width="15" height="15" alt="Icon" /> Nginx Proxy Manager - Zero to Hero - Playlist 😊](https://www.youtube.com/playlist?list=PL5Afhqcc17s2UCcuEyFnTMHbVkxl8EG_7)
 - 🔐[How to Setup SFTP Server within 50 Seconds 😊](https://youtu.be/iadE-Px-aYQ?si=jpyNzf-LS-F43VHt)
