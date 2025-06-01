@@ -1,8 +1,4 @@
----
-Created: 2024-07-27T21:23:36+05:30
-Updated: 2025-01-29T09:39:32+05:30
-Maintainer: Ibrar Ansari
----
+
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=meibraransari" alt="meibraransari" /> 
     <img src="https://img.shields.io/github/followers/meibraransari?style=social" />
