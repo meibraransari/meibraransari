@@ -13,6 +13,7 @@ Maintainer: Ibrar Ansari
     <img src="https://img.shields.io/github/contributors/meibraransari/meibraransari" />   
      <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </p>
+<!--
 <p align="center">
   <img src="assets/header.png"/>
 </p>
@@ -20,7 +21,7 @@ Maintainer: Ibrar Ansari
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
+-->
 
 ## 14+ Years experience in Cloud, DevOps Role and Tech Lead with a demonstrated history of working in the information technology and services industry. 
 
@@ -34,9 +35,9 @@ Maintainer: Ibrar Ansari
 - 👯 I’m looking to collaborate on my GitHub project.
 - 💬 Ask me about **Cloud DevOps , Infrastructure design and implementation** **Jenkins, GitLab, Ansible Automation, AWS Cloud Operations, AWS Architecture.**
 
-
+<!--
 <img align="right" alt="GIF" src="https://github.com/meibraransari/meibraransari/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-
+<!--
 
 ### 💼 Connect with me 👇👇 😊
 - 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
